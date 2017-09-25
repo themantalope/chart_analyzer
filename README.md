@@ -7,6 +7,10 @@ You will need to enable macros to analyze the values.
 More functionality to come. Still a work in progress, so download, modify and
 contribute! If you have questions with how to use git, just let me know.
 
+Suggestions about what to include next welcome. I was planning on doing the blood gas stuff with Winter's. But also could add analysis of free water deficits, drip rates for sodium rebalance etc.
+
+While these calculators exist elsewhere, the point of this is to simplify the workflow to copy/paste (en block) and then click a button, instead of navigating all over the place and punching values in. Suggestions on this welcome as well.
+
 ## Example usage
 Copy and paste values into the spreadsheet. If your values are in a different column,
 just rename the columns at the top of the spreadsheet. However the names still need to be
