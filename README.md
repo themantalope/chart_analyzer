@@ -2,6 +2,7 @@
 ------------
 
 Download the spreadsheet and copy/paste to do some simple analysis of lab values in the morning.
+You will need to enable macros to analyze the values.
 
 More functionality to come. Still a work in progress, so download, modify and
 contribute! If you have questions with how to use git, just let me know.
